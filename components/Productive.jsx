@@ -15,18 +15,21 @@ export default function Productive() {
         </p>
         <div className="wraper">
           <a className="fylo__link" href="https://fylo.com/" target="_balnk">
-            See how Fylo works <img src="../images/icon-arrow.svg" />
+            See how Fylo works <img src="../public/images/icon-arrow.svg" />
           </a>
         </div>
         <div className="testimonial__section">
-          <img src="./images/icon-quotes.svg" alt="icon-quotes" />
+          <img src="../public/images/icon-quotes.svg" alt="icon-quotes" />
           <p>
             Fylo has improved our team productivity by an order of magnitude.
             Since making the switch our team has become a well-oiled
             collaboration machine.
           </p>
           <div className="user">
-            <img src="./images/avatar-testimonial.jpg" alt="user-picture" />
+            <img
+              src="../public/images/avatar-testimonial.jpg"
+              alt="user-picture"
+            />
             <div className="user__info">
               <p className="user__name">Kyle Burton</p>
               <span className="user__job">Founder & CEO, Huddle</span>
@@ -36,7 +39,7 @@ export default function Productive() {
       </article>
       <img
         className="productive__img"
-        src="./images/illustration-2.svg"
+        src="../public/images/illustration-2.svg"
         alt="illustration-picture"
       />
     </section>
