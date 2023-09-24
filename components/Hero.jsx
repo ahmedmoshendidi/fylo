@@ -32,7 +32,7 @@ export default function Hero() {
       </div>
       <img
         className="hero__img"
-        src="../public/images/illustration-1.svg"
+        src="/images/illustration-1.svg"
         alt="illustration-picture"
       />
     </main>

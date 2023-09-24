@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <header className="header">
-      <img src="../public/images/logo.svg" alt="fylo-logo" />
+      <img src="/images/logo.svg" alt="fylo-logo" />
       <nav className="header__nav">
         <ul className="nav__list">
           <li className="list__item">Features</li>

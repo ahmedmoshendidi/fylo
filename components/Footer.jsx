@@ -58,11 +58,11 @@ export default function Footer() {
         </svg>
         <ul className="contact">
           <li className="contact__item">
-            <img src="../public/images/icon-phone.svg" alt="phone-picture" />{" "}
-            Phone: +1-543-123-4567
+            <img src="/images/icon-phone.svg" alt="phone-picture" /> Phone:
+            +1-543-123-4567
           </li>
           <li className="contact__item">
-            <img src="../public/images/icon-email.svg" alt="email-picture" />
+            <img src="/images/icon-email.svg" alt="email-picture" />
             example@fylo.com
           </li>
         </ul>
@@ -79,13 +79,13 @@ export default function Footer() {
         </ul>
         <ul className="icons">
           <li>
-            <img src="../public/images/facebook.svg" alt="facebook-icon" />
+            <img src="/images/facebook.svg" alt="facebook-icon" />
           </li>
           <li>
-            <img src="../public/images/twitter.svg" alt="twitter-icon" />
+            <img src="/images/twitter.svg" alt="twitter-icon" />
           </li>
           <li>
-            <img src="../public/images/instagram.svg" alt="instagram-icon" />
+            <img src="/images/instagram.svg" alt="instagram-icon" />
           </li>
         </ul>
       </div>
