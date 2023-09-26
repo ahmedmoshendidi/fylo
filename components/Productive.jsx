@@ -5,15 +5,13 @@ export default function Productive() {
         <h4 className="productive__title">Stay productive, wherever you are</h4>
         <p className="first__information">
           Never let location be an issue when accessing your files. Fylo has you
-          <br />
           covered for all of your file storage needs.
         </p>
         <p className="second__information">
           Securely share files and folders with friends, family and colleagues
-          for <br />
-          live collaboration. No email attachments required!
+          for live collaboration. No email attachments required!
         </p>
-        <div className="wraper">
+        <div className="wrapper">
           <a className="fylo__link" href="https://fylo.com/" target="_balnk">
             See how Fylo works <img src="/images/icon-arrow.svg" />
           </a>

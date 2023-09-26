@@ -5,10 +5,8 @@ export default function Footer() {
         <div className="get__access">
           <h4>Get early access today</h4>
           <p>
-            It only takes a minute to sign up and our free starter tier is{" "}
-            <br />
-            extremely generous. If you have any questions, our support team{" "}
-            <br />
+            It only takes a minute to sign up and our free starter tier is
+            extremely generous. If you have any questions, our support team
             would be happy to help you.
           </p>
         </div>
@@ -31,11 +29,6 @@ export default function Footer() {
         </form>
       </div>
       <div className="part__two">
-        {/* <img
-          className="footer__logo"
-          src="../images/logo.svg"
-          alt="fylo-logo"
-        /> */}
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="105"
